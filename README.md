@@ -2,11 +2,11 @@
 
 
 <b>
-- 🔭 I’m currently a First-year B-Tech Student at VIT.
-- 🌱 Pursuing Computer Science Engineering 
-- 👯 Specialisation AI & ML
-- 💻 I've foundational understanding of Python, Java, Flask, HTML, CSS, Javascript, etc.
-- ⚡ Hobbies: Piano, Photography, etc
+- 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
+- 🌱 Pursuing Computer Science Engineering <br>
+- 👯 Specialisation AI & ML <br>
+- 💻 I've foundational understanding of Python, Java, Flask, HTML, CSS, Javascript, etc. <br>
+- ⚡ Hobbies: Piano, Photography, etc <br>
 </b>
 <!--
 - 🤔 I’m looking for help with ...
