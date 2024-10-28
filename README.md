@@ -1,19 +1,18 @@
 ## Hi there 👋
 
+
+<b>
+- 🔭 I’m currently a First-year B-Tech Student at VIT.
+- 🌱 Pursuing Computer Science Engineering 
+- 👯 Specialisation AI & ML
+- 💻 I've foundational understanding of Python, Java, Flask, HTML, CSS, Javascript, etc.
+- ⚡ Hobbies: Piano, Photography, etc
+</b>
 <!--
-**SamXop123/SamXop123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ... -->
 
 ## My Badges 😊
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
