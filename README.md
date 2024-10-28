@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+## My Badges 😊
+<div style='display:flex; align-items:center; gap: 10px;' align='left'>
   <img src="https://github.com/SamXop123/SamXop123/blob/main/Postman%20API%20Fundamentals%20Student%20Expert.png" width="100px" height="100px" />
 <!--   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
