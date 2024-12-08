@@ -46,9 +46,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=SamXop123&icon=5&color=1)](https://visitcount.itsvg.in)
 
-<span>
-<img src="https://github.com/SamXop123/SamXop123/blob/main/Qr%20Code%20Design%20Vector%20PNG%20Images%2C%20Code%20Icon%20Design%20Vector%2C%20Code%20Icons%2C%20Icon%2C%20Illustration%20PNG%20Image%20For%20Free%20Download.jpeg" alt="Just Coding" width="200px"></span>
-<h2><span> Coding.. </span>
-<span> Forever... </span></h2>
+<img src="https://github.com/SamXop123/SamXop123/blob/main/Code%20Coding%20GIF%20-%20Code%20Coding%20Programming%20-%20Discover%20%26%20Share%20GIFs.gif" alt="Coding.. Forever...">
 
 
