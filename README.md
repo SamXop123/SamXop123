@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<img src="https://assets.pinterest.com/ext/embed.html?id=125115695893186582" height="295" width="345" frameborder="0" scrolling="no" >
 
 <b>
 - 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
