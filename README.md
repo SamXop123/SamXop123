@@ -1,3 +1,5 @@
+<img src = "https://github.com/SamXop123/SamXop123/blob/main/Unique%205120x1440%20Fall%20Wallpaper%20(1).jpeg" width="1100px">
+
 ## Hi there 👋
 
 
