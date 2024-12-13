@@ -9,6 +9,7 @@
 - 👯 Specialisation AI & ML <br>
 - 💻 I've foundational understanding of Python, Java, Flask, HTML, CSS, Javascript, etc. <br>
 - ⚡ Hobbies: Piano, Photography, etc <br>
+- ✨ Lifelong learner, code enthusiast, and a dream weaver.
 </b>
 <!--
 - 🤔 I’m looking for help with ...
