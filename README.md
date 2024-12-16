@@ -2,7 +2,6 @@
 
 ## Hi there 👋
 
-
 <b>
 - 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
 - 🌱 Pursuing Computer Science Engineering <br>
@@ -37,13 +36,12 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dot_notsam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-prajapati-vit) 
 
 # 💻 Tech Stack:
-
 ![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,flask,markdown,github,windows,vscode,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamXop123&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
