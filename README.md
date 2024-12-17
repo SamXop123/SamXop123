@@ -51,4 +51,4 @@
 
 <img src="https://github.com/SamXop123/SamXop123/blob/main/Code%20Coding%20GIF%20-%20Code%20Coding%20Programming%20-%20Discover%20%26%20Share%20GIFs.gif" alt="Coding.. Forever...">
 
-<img src="https://github.com/SamXop123/SamXop123/blob/main/bar.png" alt="End">
+<img src="https://github.com/SamXop123/SamXop123/blob/main/seperator.webp" alt="End">
