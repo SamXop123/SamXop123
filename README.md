@@ -46,10 +46,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed.gif" width="1000" height="10" alt="End">
+<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End">
 
 [![](https://visitcount.itsvg.in/api?id=SamXop123&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <img src="https://github.com/SamXop123/SamXop123/blob/main/Code%20Coding%20GIF%20-%20Code%20Coding%20Programming%20-%20Discover%20%26%20Share%20GIFs.gif" alt="Coding.. Forever...">
 
-<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed.gif" width="1000" height="10" alt="End">
+<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End">
