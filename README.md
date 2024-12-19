@@ -36,7 +36,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dot_notsam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-prajapati-vit) 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,flask,markdown,github,windows,vscode,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
+![My Skills](https://skillicons.dev/icons?i=java,py,html,css,js,flask,markdown,github,windows,vscode,pycharm,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
