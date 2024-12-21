@@ -1,5 +1,7 @@
 <img src = "https://github.com/SamXop123/SamXop123/blob/main/Unique%205120x1440%20Fall%20Wallpaper%20(1).jpeg" width="1100px">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&color=F7F7F7&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <b>
