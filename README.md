@@ -30,7 +30,8 @@
   <!--
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
-<hr>
+<br>
+<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1100" height="10" alt="End">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dot_notsam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-prajapati-vit) 
