@@ -1,6 +1,6 @@
 <img src = "https://github.com/SamXop123/SamXop123/blob/main/Unique%205120x1440%20Fall%20Wallpaper%20(1).jpeg" width="1100px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=50&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)](https://git.io/typing-svg)
 
 ## Hi there 👋
 
