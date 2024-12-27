@@ -52,14 +52,14 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End">
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&hide_border=true)
 
-<p>
-<img src="https://github.com/SamXop123/SamXop123/blob/main/CodeCodingGIF-CodeCodingProgramming-DiscoverShareGIFs-ezgif.com-crop.gif" alt="Coding.. Forever...">
-  
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<!-- <img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End"> -->
 
-</p>
+<div align="center">
+<img src="https://github.com/SamXop123/SamXop123/blob/main/CodeCodingGIF-CodeCodingProgramming-DiscoverShareGIFs-ezgif.com-crop.gif" alt="Coding.. Forever...">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="quotes">
+</div>
 
 <img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End">
 
