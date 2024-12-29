@@ -65,5 +65,5 @@
 
 <!-- [![](https://visitcount.itsvg.in/api?id=SamXop123&icon=5&color=1)](https://visitcount.itsvg.in) -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SamXop123/count.svg?" start="0" />
+  <img src="https://profile-counter.glitch.me/SamXop123/count.svg?" start="1000" />
 </div> 
