@@ -57,11 +57,11 @@
 <!-- <img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End"> -->
 
 <div align="center">
-<img src="https://github.com/SamXop123/SamXop123/blob/main/CodeCodingGIF-CodeCodingProgramming-DiscoverShareGIFs-ezgif.com-crop.gif" alt="Coding.. Forever...">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="./Resources/EatCodeRepeat.gif" alt="Coding.. Forever...">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="quotes">
 </div>
 
-<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End">
+<img src="./Resources/Dynamic_bar.gif" width="1000" height="10" alt="End">
 
 <!-- [![](https://visitcount.itsvg.in/api?id=SamXop123&icon=5&color=1)](https://visitcount.itsvg.in) -->
 <div align="center">
