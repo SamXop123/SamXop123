@@ -75,7 +75,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake.svg" />
 </picture>
 
-<div>
+<div align="center">
   <img src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/snake.svg" alt="Snake animation" />
-  
+  <br>
 </div> -->
