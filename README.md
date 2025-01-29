@@ -74,8 +74,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake.svg" />
 </picture>
-
+-->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/snake.svg" alt="Snake animation" />
+  
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-contribution-grid-snake.svg" />
+
   <br>
-</div> -->
+</div> 
