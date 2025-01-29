@@ -1,4 +1,4 @@
-<img src = "https://github.com/SamXop123/SamXop123/blob/main/Unique%205120x1440%20Fall%20Wallpaper%20(1).jpeg" width="1100px">
+<img src = "./Resources/banner.jpeg" width="1100px">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)
 
@@ -20,20 +20,20 @@
 
 ## My Badges 😊
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/5-Star%20Python%20Hackerrank.png" width="90px" height="100px" />
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/java%205%20star.png" width="91px" height="102px" />
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/Postman%20API%20Fundamentals%20Student%20Expert.png" width="100px" height="100px" />
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/Hack-Web3Conf%202024%20Badge.png" width="100px" height="100px" />
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/5.png" width="100px" height="100px" />
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/Resources/1.png" width="100px" height="100px" />
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/2.png" width="100px" height="100px" />
+  <img src="./Resources/5-Star Python Hackerrank.png" width="90px" height="100px" />
+  <img src="./Resources/java 5 star.png" width="91px" height="102px" />
+  <img src="./Resources/Postman API Fundamentals Student Expert.png" width="100px" height="100px" />
+  <img src="./Resources/Hack-Web3Conf 2024 Badge.png" width="100px" height="100px" />
+  <img src="./Resources/5.png" width="100px" height="100px" />
+  <img src="./Resources/1.png" width="100px" height="100px" />
+  <img src="./Resources/2.png" width="100px" height="100px" />
 <!--   <img src="https://github.com/SamXop123/SamXop123/blob/main/3.png" width="100px" height="100px" /> -->
-  <img src="https://github.com/SamXop123/SamXop123/blob/main/4.png" width="100px" height="100px" />
+  <img src="./Resources/4.png" width="100px" height="100px" />
   <!--
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
 <br>
-<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1100" height="10" alt="End">
+<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 ## 🌐 Reach me out via:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dot_notsam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-prajapati-vit) [![Email](https://custom-icon-badges.demolab.com/badge/Email-pink?logo=112-gmail_email_mail-512&logoColor=white)](mailto:sameerprajapati066@gmail.com)
