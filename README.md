@@ -58,7 +58,7 @@
 
 <div align="center">
 <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="350" alt="quotes">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
 </div>
 
 <img src="./Resources/Dynamic_bar.gif" width="1000" height="10" alt="End">
