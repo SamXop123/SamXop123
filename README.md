@@ -57,8 +57,8 @@
 <!-- <img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End"> -->
 
 <div align="center">
-<img src="./Resources/EatCodeRepeat.gif" alt="Coding.. Forever...">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="quotes">
+<img src="./Resources/EatCodeRepeat.gif" alt="Coding.. Forever..." width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="400" alt="quotes">
 </div>
 
 <img src="./Resources/Dynamic_bar.gif" width="1000" height="10" alt="End">
