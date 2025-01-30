@@ -76,8 +76,10 @@
 </picture>
 -->
 <div align="center">
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/SamXop123/SamXop123/blob/output/github-contribution-grid-snake.gif) -->
   
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-contribution-grid-snake.svg" />
-
+  <img src="https://raw.githubusercontent.com/premkolte/premkolte/output/snake.svg" alt="Snake animation" />
   <br>
+  
 </div> 
