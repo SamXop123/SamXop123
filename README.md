@@ -27,10 +27,9 @@
   <img src="./Resources/5.png" width="100px" height="100px" />
   <img src="./Resources/1.png" width="100px" height="100px" />
   <img src="./Resources/2.png" width="100px" height="100px" />
-<!--   <img src="https://github.com/SamXop123/SamXop123/blob/main/3.png" width="100px" height="100px" /> -->
+  <!-- <img src="https://github.com/SamXop123/SamXop123/blob/main/3.png" width="100px" height="100px" /> -->
   <img src="./Resources/4.png" width="100px" height="100px" />
-  <!--
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
+  <!-- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
 <br>
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
