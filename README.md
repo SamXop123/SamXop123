@@ -12,11 +12,6 @@
 - ⚡ Hobbies: Piano, Photography, etc <br>
 - ✨ Lifelong learner, code enthusiast, and a dream weaver.
 </b>
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
 
 ## My Badges 😊
 <div style='display:flex; align-items:center; gap: 10px;' align='left'>
@@ -29,20 +24,21 @@
   <img src="./Resources/2.png" width="100px" height="100px" />
   <!-- <img src="https://github.com/SamXop123/SamXop123/blob/main/3.png" width="100px" height="100px" /> -->
   <img src="./Resources/4.png" width="100px" height="100px" />
-  <!-- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> -->
 </div>
+
 <br>
+
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 ## 🌐 Reach me out via:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dot_notsam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-prajapati-vit) [![Email](https://custom-icon-badges.demolab.com/badge/Email-pink?logo=112-gmail_email_mail-512&logoColor=white)](mailto:sameerprajapati066@gmail.com) [![Linktree](https://custom-icon-badges.demolab.com/badge/Linktree-darkgreen.svg?logo=linktreesdf&logoColor=white)](https://linktr.ee/DotNotSam)
 
 
-
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=java,py,html,css,cpp,js,flask,markdown,github,windows,vscode,pycharm,clion,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
 
 # 📊 GitHub Stats:
+
 <span>
   
   ![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;
