@@ -71,8 +71,7 @@
 </div> 
 
 <div align="center">
-  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-contribution-grid-snake.svg" />
-  ![snake gif](https://github.com/SamXop123/SamXop123/blob/output/github-contribution-grid-snake.gif) -->
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake.svg" />
@@ -81,3 +80,6 @@
   
 <br>
 </div> 
+
+ <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-contribution-grid-snake.svg" />
+  ![snake gif](https://github.com/SamXop123/SamXop123/blob/output/github-contribution-grid-snake.gif) -->
