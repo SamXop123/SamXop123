@@ -22,7 +22,7 @@
   <img src="./Resources/5.png" width="100px" height="100px" />
   <img src="./Resources/1.png" width="100px" height="100px" />
   <img src="./Resources/2.png" width="100px" height="100px" />
-  <!-- <img src="https://github.com/SamXop123/SamXop123/blob/main/3.png" width="100px" height="100px" /> -->
+  <!-- <img src="./Resources/3.png" width="100px" height="100px" /> -->
   <img src="./Resources/4.png" width="100px" height="100px" />
 </div>
 
@@ -38,12 +38,11 @@
 ![My Skills](https://skillicons.dev/icons?i=java,py,html,css,cpp,js,flask,markdown,github,windows,vscode,pycharm,clion,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
 
 # 📊 GitHub Stats:
-
 <span>
   
   ![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&layout=compact&langs_count=15)
-  
+
 </span>
 <!-- [![](https://streak-stats.demolab.com?user=SamXop123&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats) -->
 
