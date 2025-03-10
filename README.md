@@ -53,10 +53,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&hide_border=true)
 
-<!-- <img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End"> -->
+<!-- 
+<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End"> 
+-->
 
 <div align="center">
 <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -71,13 +72,11 @@
 </div> 
 
 <div align="center">
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-snake.svg" />
   </picture>
-  
 <br>
 </div> 
 
