@@ -3,7 +3,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)
 
 ## Hi there 👋
-
 <b>
 - 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
 - 🌱 Pursuing Computer Science Engineering <br>
@@ -37,6 +36,7 @@
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=java,py,html,css,cpp,js,flask,markdown,github,windows,vscode,pycharm,clion,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
 
+
 # 📊 GitHub Stats:
 <span>
   
@@ -59,8 +59,8 @@
 -->
 
 <div align="center">
-<img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
+  <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
 </div>
 
 <img src="./Resources/Dynamic_bar.gif" width="1000" height="10" alt="End">
