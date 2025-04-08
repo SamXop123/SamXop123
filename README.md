@@ -46,7 +46,9 @@
 </span>
 <!-- [![](https://streak-stats.demolab.com?user=SamXop123&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats) -->
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamXop123&theme=ambient_gradient&hide_border=false)<br/><br/>
+<!-- 
+to rem Comment 
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamXop123&theme=ambient_gradient&hide_border=false)<br/><br/> -->
 
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
