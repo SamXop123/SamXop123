@@ -1,4 +1,4 @@
-<img src = "./Resources/banner.jpeg" width="1100px">
+<img src = "./Resources/banner.png" width="1100px">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)
 
