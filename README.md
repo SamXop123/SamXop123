@@ -44,8 +44,8 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&layout=compact&langs_count=15)
 
 </span>
-
-[![](https://streak-stats.demolab.com?user=SamXop123&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
+<!--
+[![](https://streak-stats.demolab.com?user=SamXop123&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats) -->
 
 <!-- 
 to rem Comment 
