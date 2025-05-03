@@ -34,7 +34,7 @@
 
 
 # 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=java,py,html,css,cpp,js,flask,markdown,github,windows,vscode,pycharm,clion,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
+![My Skills](https://skillicons.dev/icons?i=java,py,html,css,cpp,js,flask,markdown,regex,github,windows,vscode,pycharm,clion,vercel,netlify,figma,ae,ps,pr,matlab,notion,postman)
 
 
 # 📊 GitHub Stats:
