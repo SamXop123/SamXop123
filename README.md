@@ -13,7 +13,7 @@
 </b>
 
 ## My Badges 😊
-<div style='display:flex; align-items:center; gap: 10px;' align='left'>
+<div style="display:flex; align-items:center; gap: 10px;">
   <img src="./Resources/5-Star Python Hackerrank.png" width="90px" height="100px" />
   <img src="./Resources/java 5 star.png" width="91px" height="102px" />
   <img src="./Resources/Postman API Fundamentals Student Expert.png" width="100px" height="100px" />
@@ -22,9 +22,9 @@
   <img src="./Resources/1.png" width="100px" height="100px" />
   <img src="./Resources/2.png" width="100px" height="100px" />
   <img src="./Resources/4.png" width="100px" height="100px" /><br>
-  <img src="./Resources/3.png" width="105px" height="105px" />
-  <img src="./Resources/google-cloud.png" width="100px" height="100px" />&nbsp;
-  <img src="./Resources/ibm-softeng.png" width="100px" height="100px" />
+  <img src="./Resources/google-cloud.png" width="95px" height="95px" />&nbsp;
+  <img src="./Resources/ibm-softeng.png" width="95px" height="95px" />
+  <img src="./Resources/3.png" width="100px" height="100px" />
 </div>
 
 <br>
