@@ -2,15 +2,23 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)
 
+
 ## Hi there 👋
-<b>
-- 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
-- 🌱 Pursuing Computer Science Engineering <br>
-- 👯 Specialisation AI & ML <br>
-- 💻 I've foundational understanding of Python, Java, Flask, HTML, CSS, Javascript, etc. <br>
-- ⚡ Hobbies: Piano, Photography, etc <br>
-- ✨ Lifelong learner, code enthusiast, and a dream weaver.
-</b>
+
+<p align="left">
+  <img src="./Resources/pika-pika.gif" width="150px" align="right" alt="pika-pika">
+
+  <b>
+  - 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
+  - 🌱 Pursuing Computer Science Engineering <br>
+  - 👯 Specialisation AI & ML <br>
+  - 💻 I've foundational understanding of Python, Java, Flask, HTML, CSS, Javascript, etc. <br>
+  - ⚡ Hobbies: Piano, Photography, etc <br>
+  - ✨ Lifelong learner, code enthusiast, and a dream weaver.
+  </b>
+</p>
+
+
 
 ## My Badges 😊
 <div style="display:flex; align-items:center; gap: 10px;">
