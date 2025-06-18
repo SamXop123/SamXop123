@@ -54,27 +54,27 @@
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&layout=compact&langs_count=15)
 
 </span>
-<!--
-[![](https://streak-stats.demolab.com?user=SamXop123&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats) -->
+
+[![](https://streak-stats.demolab.com?user=SamXop123&theme=ambient-gradient&hide_border=true)](https://git.io/streak-stats)
 
 <!-- 
 to rem Comment 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamXop123&theme=ambient_gradient&hide_border=false)<br/><br/> -->
 
-<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
-
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies -->
 ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&hide_border=true)
 
-<!-- 
-<img src="https://github.com/SamXop123/SamXop123/blob/main/VUIexploration-ezgif.com-speed%20(1).gif" width="1000" height="10" alt="End"> 
--->
+<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 <div align="center">
   <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
-</div>
+  <img src="./Resources/so-code.gif" alt="lappy" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Resources/laptop-visual.gif" alt="lappy" width="380">
+  
+</div><br>
+<br>
 
 <img src="./Resources/Dynamic_bar.gif" width="1000" height="10" alt="End">
 
