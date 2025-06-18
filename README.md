@@ -94,3 +94,5 @@ to rem Comment
 
  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/SamXop123/SamXop123/output/github-contribution-grid-snake.svg" />
   ![snake gif](https://github.com/SamXop123/SamXop123/blob/output/github-contribution-grid-snake.gif) -->
+
+![.](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Trying%20to%20Code%20Better%20Every%20Day%20💻&section=footer&descAlignY=84&descSize=35&textBg=false&fontSize=40&fontAlignY=80)
