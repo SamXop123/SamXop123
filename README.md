@@ -2,7 +2,7 @@
 
 <img src = "./Resources/banner.png" width="1100px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=0&color=F7F7F7&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=35&&letterSpacing=0.2rem&duration=2000&pause=0&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer+Prajapati.;+A+Passionate+coder+from+India!)
 
 
 ## Hi there 👋
