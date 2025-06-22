@@ -1,4 +1,4 @@
-![banner-modified](https://github.com/user-attachments/assets/9cb05de5-c088-4c74-a6ad-46a3d87a34b0)<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
+<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 <img src = "./Resources/banner-modified.png" width="1100px">
 
