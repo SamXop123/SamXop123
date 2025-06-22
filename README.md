@@ -1,8 +1,8 @@
-<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
+![banner-modified](https://github.com/user-attachments/assets/9cb05de5-c088-4c74-a6ad-46a3d87a34b0)<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 <img src = "./Resources/banner-modified.png" width="1100px">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=35&&letterSpacing=0.2rem&duration=2000&pause=0&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+;I+am+Sameer.;+A+Passionate+coder+from+India!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=35&&letterSpacing=0.2rem&duration=2000&pause=0&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+👋+;I'm+Sameer.;+A+Passionate+coder+from+India!)
 
 
 ## Hi there 👋
