@@ -77,7 +77,7 @@ to rem Comment
 <div align="center">
   <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
-  <img src="./Resources/so-code.gif" alt="lappy" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./Resources/so-code-crop.gif" alt="lappy" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./Resources/dark-coding.jpeg" alt="lappy" width="400">
   
 </div><br>
