@@ -14,8 +14,8 @@
   - 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
   - 🌱 Pursuing Computer Science Engineering <br>
   - 👯 Specialisation AI & ML <br>
-  - 💻 I've foundational understanding of Python, Java, Flask, HTML, CSS, Javascript, etc. <br>
-  - ⚡ Hobbies: Piano, Photography, etc <br>
+  - 💻 I've foundational understanding of Python, Java, Flask, Javascript, Web Dev, etc. <br>
+  - ⚡ Hobbies: Piano, Photography, Football, etc <br>
   - ✨ Lifelong learner, code enthusiast, and a dream weaver.
   </b>
 </p>
