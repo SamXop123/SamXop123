@@ -35,6 +35,7 @@
   <img src="./Resources/google-cloud.png" width="95px" height="95px" />&nbsp;
   <img src="./Resources/ibm-softeng.png" width="95px" height="95px" />
   <img src="./Resources/3.png" width="100px" height="100px" />
+  <img src="./Resources/CA_GSSoC.png" width="105px" height="105px" />
 </div>
 
 <br>
