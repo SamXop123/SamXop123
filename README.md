@@ -1,4 +1,4 @@
-<!-- <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End"> -->
+<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 <img src = "./Resources/banner-modified.png" width="1100px">
 
