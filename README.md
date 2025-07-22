@@ -11,7 +11,7 @@
   <img src="./Resources/pika-pika.gif" width="150px" align="right" alt="pika-pika">
 
   <b>
-  - 🔭 I’m currently a First-year B-Tech Student at VIT. <br>
+  - 🔭 I’m currently a 2nd-year B-Tech Student at VIT. <br>
   - 🌱 Pursuing Computer Science Engineering <br>
   - 👯 Specialisation AI & ML <br>
   - 💻 I've foundational understanding of Python, Java, Flask, Javascript, Web Dev, etc. <br>
