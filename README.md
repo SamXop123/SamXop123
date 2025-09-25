@@ -65,15 +65,17 @@
   <img src="./Resources/laptop-visual.gif" width="200" />
 </p>
 
-
-
 <!-- 
 to rem Comment 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamXop123&theme=ambient_gradient&hide_border=false)<br/><br/> -->
 
 <!-- ## 🏆 GitHub Trophies -->
-![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&hide_border=true)
+<div align="center">
+  
+  ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) 
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&radius=14)
+  
+</div>
 
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
