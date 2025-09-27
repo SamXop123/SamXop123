@@ -17,6 +17,8 @@
   - 💻 I've foundational understanding of Python, Java, Flask, Javascript, Web Dev, etc. <br>
   - ⚡ Hobbies: Piano, Photography, Football, etc <br>
   - ✨ Lifelong learner, code enthusiast, and a dream weaver.
+    
+![](https://monkeytype-github-profile.deno.dev/profile/DotNot_Sam)
   </b>
 </p>
 
