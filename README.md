@@ -75,7 +75,7 @@ to rem Comment
 <!-- ## 🏆 GitHub Trophies -->
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4) 
+  ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1) 
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&radius=14)
   
 </div>
