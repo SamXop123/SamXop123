@@ -40,7 +40,8 @@
   <img src="./Resources/supercontributor-hacktoberfest.webp" width="90px" height="100px" />
   <img src="./Resources/treenation.webp" width="90px" height="100px" />
   <img src="./Resources/CA_GSSoC.png" width="100px" height="100px" />
-  <img src="./Resources/Project_Admin_badge.png" width="100px" height="105px" />
+  <img src="./Resources/Project_Admin_badge.png" width="105px" height="105px" />
+  <img src="./Resources/oracle_university.png" width="95px" height="95px" />
 </div>
 
 <br>
