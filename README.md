@@ -20,8 +20,8 @@
     
 ![](https://monkeytype-github-profile.deno.dev/profile/DotNot_Sam)
 <br>
-<img src="https://img.icons8.com/color/30/000000/visible--v1.png" width="20" alt="Eye Icon" />
 ![Profile views](https://komarev.com/ghpvc/?username=SamXop123&label=Profile%20Views&color=red&style=flat-square)
+<img src="https://img.icons8.com/color/30/000000/visible--v1.png" width="20" alt="Eye Icon" />
 
   </b>
 </p>
