@@ -64,7 +64,7 @@
 <span>
   
   ![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&layout=compact&langs_count=15&exclude_repo=RigCrafter)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&layout=compact&langs_count=15&exclude_repo=RigCrafter,Flight-Booking-System)
 
 
 </span>
