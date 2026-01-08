@@ -59,13 +59,12 @@
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=java,py,html,css,cpp,js,flask,nodejs,expressjs,tailwindcss,react,vite,markdown,regex,github,googlecloud,firebase,windows,vscode,pycharm,clion,vercel,netlify,figma,ps,pr,matlab,notion,postman)
 
-
+<!-- 
 # 📊 GitHub Stats:
 <span>
   
   ![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&layout=compact&langs_count=15&exclude_repo=RigCrafter,Flight-Booking-System)
-
 
 </span>
 
@@ -74,14 +73,17 @@
   <img src="./Resources/laptop-visual.gif" width="200" />
 </p>
 
-<!-- 
-to rem Comment 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SamXop123&theme=ambient_gradient&hide_border=false)<br/><br/> -->
+![op](https://github-readme-streak-stats.herokuapp.com/?user=SamXop123&theme=ambient_gradient&hide_border=false)<br/><br/>
+-->
+
+
 
 <!-- ## 🏆 GitHub Trophies -->
+
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1) 
+ <!-- ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1) -->
+  
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&radius=14)
   
 </div>
