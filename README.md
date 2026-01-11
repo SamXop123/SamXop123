@@ -95,18 +95,25 @@
  <!-- ![](https://github-profile-trophy.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&row=1) -->
   
   ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&radius=14)
-  
+
 </div>
 
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 <div align="center">
+    <img src="./Resources/git-wrapped-SamXop123.png" alt="lappy" width="285">
+    <img src="./Resources/LC%20Rewind%202025.png" width="300" alt="LC">
+</div>
+
+<!--
+<div align="center">
   <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" width="300" alt="quotes">
   <img src="./Resources/helo.gif" alt="lappy" width="400">&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./Resources/dark-coding.jpeg" alt="lappy" width="400">
-  
-</div><br>
+</div>
+<br>
+-->
 <br>
 
 <img src="./Resources/Dynamic_bar.gif" width="1000" height="10" alt="End">
