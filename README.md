@@ -100,8 +100,10 @@
 
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
-<div align="center">
-    <img src="./Resources/git-wrapped-SamXop123.png" alt="lappy" width="285">
+## 2025 Wrapped
+
+<div align="left">
+    <img src="./Resources/git-wrapped-SamXop123.png" alt="lappy" width="308">
     <img src="./Resources/LC%20Rewind%202025.png" width="300" alt="LC">
 </div>
 
