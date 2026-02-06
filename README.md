@@ -3,20 +3,18 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=35&&letterSpacing=0.2rem&duration=2000&pause=0&color=36BCF7FF&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hi!+👋+;I'm+Sameer.;+A+Passionate+coder+from+India!)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=30&duration=2000&color=B5C8F7&center=true&vCenter=true&height=150&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sam.;A+Passionate+Coder+from+India.)](https://git.io/typing-svg)
 
-## About Me ⚡
+<hr>
 
 <p align="left">
-  <img src="./Resources/pika-pika.gif" width="150px" align="right" alt="pika-pika">
+  <img src="./Resources/pika-pika.gif" width="130px" align="right" alt="pika-pika">
 
+  ### About Me ⚡
   <b>
-  - 🔭 I’m currently a 2nd-year B-Tech Student at VIT. <br>
   - 🌱 Pursuing Computer Science Engineering <br>
-  - 👯 Specialisation AI & ML <br>
   - 💻 I've strong understanding of Python, Java, Flask, Reactjs, Expressjs, MongoDB, etc. <br>
   - ⚡ Hobbies: Piano, Photography, Football, gaming, etc <br>
-  - ✨ Lifelong learner, code enthusiast, and a dream weaver.
-
   </b>
 </p>
 <br>
@@ -35,6 +33,21 @@
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-pink?style=for-the-badge&logo=112-gmail_email_mail-512&logoColor=white)](mailto:sameerprajapati066@gmail.com)
 [![Linktree](https://custom-icon-badges.demolab.com/badge/Linktree-darkgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/DotNotSam)
 
+# 📊 GitHub Stats:
+
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=SamXop123&theme=tokyonight&leetcode=Dot_NotSam&align=center)
+<!--
+<img src="https://github-trophies.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=SamXop123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=typescript" alt="Top Languages" height="170"/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=SamXop123&theme=radical&hide_border=true)<br/>
+
+-->
+<!--
+![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=typescript)
+-->
 
 
 
@@ -71,18 +84,6 @@
 
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
-# 📊 GitHub Stats:
-  
-<img src="https://github-trophies.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=SamXop123&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide=typescript" alt="Top Languages" height="170"/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=SamXop123&theme=radical&hide_border=true)<br/>
-
-<!--
-![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=typescript)
--->
 
 <!-- 
 # 📊 GitHub Stats:
