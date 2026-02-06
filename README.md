@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=30&duration=2000&color=B5C8F7&center=true&vCenter=true&height=150&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sam.;A+Passionate+Coder+from+India.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=40&duration=2000&color=B5C8F7&center=true&vCenter=true&height=100&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sam.;A+Passionate+Coder+from+India.)](https://git.io/typing-svg)
 
 </div>
 
