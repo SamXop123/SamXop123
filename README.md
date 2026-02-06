@@ -53,7 +53,7 @@
 
 
 
-## -: My Badges :-
+# 🎖️ My Badges:
 <div style="display:flex; align-items:center; gap: 10px;">
   <img src="./Resources/5-Star Python Hackerrank.png" width="90px" height="100px" />
   <img src="./Resources/java 5 star.png" width="91px" height="102px" />
@@ -74,9 +74,9 @@
 </div>
 
 <br>
-
+<!--
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
-
+-->
 
 # 💻 Tech Stack:
 ![My Skills](https://skillicons.dev/icons?i=java,py,html,css,cpp,js,flask,nodejs,expressjs,tailwindcss,react,vite,markdown,regex,github,googlecloud,firebase,windows,vscode,pycharm,clion,vercel,netlify,figma,ps,pr,matlab,notion,postman)
