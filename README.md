@@ -117,8 +117,8 @@
 # 🔥 2025 Wrapped
 
 <div>
-    <img src="./Resources/git-wrapped-SamXop123.png" alt="lappy" width="308">
-    <img src="./Resources/LC%20Rewind%202025.png" width="300" alt="LC">
+    <img src="./Resources/git-wrapped-SamXop123.png" alt="lappy" width="290">
+    <img src="./Resources/LC%20Rewind%202025.png" width="281" alt="LC">
 </div>
 
 </div>
