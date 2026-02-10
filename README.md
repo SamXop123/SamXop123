@@ -114,7 +114,7 @@
   
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamXop123&theme=react-dark&radius=14)
 
--->
+
 
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
@@ -126,6 +126,7 @@
 </div>
 
 </div>
+-->
 <!--
 <div align="center">
   <img src="./Resources/EatCodeRepeat1.gif" alt="Coding.. Forever..." width="500">&nbsp;&nbsp;&nbsp;&nbsp;
