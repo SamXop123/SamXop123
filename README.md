@@ -27,15 +27,17 @@
   
 ![MonkeyType](https://monkeytype-github-profile.deno.dev/profile/DotNot_Sam)
 
-![Profile views](https://komarev.com/ghpvc/?username=SamXop123&label=Profile%20Views&color=red&style=flat-square)
-<img src="https://img.icons8.com/color/30/000000/visible--v1.png" width="20" alt="Eye Icon" />
+![Profile Views](https://komarev.com/ghpvc/?username=SamXop123&label=Profile%20Views&color=red&style=for-the-badge)
+<!--<img src="https://img.icons8.com/color/30/000000/visible--v1.png" width="30" alt="Eye Icon" />-->
 
 
 # 🌐 Reach me out via:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dot_notsam)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-prajapati-vit)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sameer-prajapati-vit)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-pink?style=for-the-badge&logo=112-gmail_email_mail-512&logoColor=white)](mailto:sameerprajapati066@gmail.com)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dot_NotSam)
 [![Linktree](https://custom-icon-badges.demolab.com/badge/Linktree-darkgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/DotNotSam)
+
 
 # 📊 GitHub Stats:
 
