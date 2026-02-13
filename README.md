@@ -1,7 +1,7 @@
 ![SamXop123-Header](https://samxop123-header.vercel.app/)
 
-<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 <!--
+<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 <img src = "./Resources/banner-modified.png" width="1100px">
 -->
 <div align="center">
@@ -10,7 +10,9 @@
 
 </div>
 
-<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
+<hr>
+
+<!-- <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End"> -->
 
 
 <p align="left">
