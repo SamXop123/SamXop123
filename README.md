@@ -58,7 +58,66 @@
 ![](https://github-readme-stats.vercel.app/api?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamXop123&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact&hide=typescript)
 -->
+<br>
 
+# 🚀 some of my work :D
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/SamXop123/Paraline/releases">
+        <img src="Resources/appicon.png", width="25%", height="35%", alt="Paraline" />
+      </a>
+      <h3>Paraline</h3>
+      <p>this one is for the people who want their desktop to feel alive. paraline is an aesthetic windows audio visualizer that sits right on your screen and turns whatever is playing into soft ambient waves, glowing borders, and reactive light. contains multiple themes!</p>
+      <p><b>Stack:</b> nodejs, electron, C#, dotnet</p>
+      <p>
+        <a href="https://github.com/SamXop123/Paraline/releases">Live</a> |
+        <a href="https://github.com/SamXop123/Paraline">Code</a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://samdev-pulse.vercel.app">
+        <img src="Resources/logo-samdev-pulse.png" width="30%" alt="samdev-pulse" />
+      </a>
+      <h3>samdev-pulse</h3>
+      <p>this one you just saw above. yeah. the github profile stats generated as a single svg dashboard. this also contains multiple themes as well as optional leetcode support! and now if u are done reading, here is what 'pulse' stands for - Project Unified Live Stats Engine.</p>
+      <p><b>Stack:</b> nodejs, expressjs, rest-api</p>
+      <p>
+        <a href="https://samdev-pulse.vercel.app">Live</a> |
+        <a href="https://github.com/SamXop123/samdev-pulse">Code</a>
+      </p>
+    </td>
+  </tr>
+  <!-- <tr>
+    <td align="center" width="50%">
+      <a href="PROJECT_LINK_3">
+        <img src="PROJECT_IMAGE_URL_3" width="100%" alt="Project 3 Preview" />
+      </a>
+      <h3>Project Name 3</h3>
+      <p>Short one-line description of what it does.</p>
+      <p><b>Stack:</b> Java, Spring Boot, MySQL</p>
+      <p>
+        <a href="PROJECT_LINK_3">Live</a> |
+        <a href="GITHUB_LINK_3">Code</a>
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <a href="PROJECT_LINK_4">
+        <img src="PROJECT_IMAGE_URL_4" width="100%" alt="Project 4 Preview" />
+      </a>
+      <h3>Project Name 4</h3>
+      <p>Short one-line description of what it does.</p>
+      <p><b>Stack:</b> Next.js, Firebase, Tailwind CSS</p>
+      <p>
+        <a href="PROJECT_LINK_4">Live</a> |
+        <a href="GITHUB_LINK_4">Code</a>
+      </p>
+    </td>
+  </tr> -->
+</table>
+
+<br>
 
 
 # 🎖️ My Badges:
