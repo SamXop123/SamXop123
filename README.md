@@ -65,14 +65,14 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/SamXop123/Paraline/releases">
+      <a href="https://paraline.vercel.app">
         <img src="Resources/appicon.png", width="25%", height="35%", alt="Paraline" />
       </a>
       <h3>Paraline</h3>
       <p>this one is for the people who want their desktop to feel alive. paraline is an aesthetic windows audio visualizer that sits right on your screen and turns whatever is playing into soft ambient waves, glowing borders, and reactive light. contains multiple themes!</p>
       <p><b>Stack:</b> nodejs, electron, C#, dotnet</p>
       <p>
-        <a href="https://github.com/SamXop123/Paraline/releases">Live</a> |
+        <a href="https://paraline.vercel.app">Live</a> |
         <a href="https://github.com/SamXop123/Paraline">Code</a>
       </p>
     </td>
