@@ -138,6 +138,8 @@
   <img src="./Resources/CA_GSSoC.png" width="100px" height="100px" />
   <img src="./Resources/Project_Admin_badge.png" width="105px" height="105px" />
   <img src="./Resources/OCI25GAIOCP.png" width="95px" height="95px" />
+  <img src="./Resources/project_admin.png" width="95px" height="95px" />
+  <img src="./Resources/open.png" width="95px" height="95px" />
 </div>
 
 <br>
