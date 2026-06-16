@@ -89,32 +89,32 @@
       </p>
     </td>
   </tr>
-  <!-- <tr>
+  <tr>
     <td align="center" width="50%">
-      <a href="PROJECT_LINK_3">
-        <img src="PROJECT_IMAGE_URL_3" width="100%" alt="Project 3 Preview" />
+      <a href="https://github.com/SamXop123/Trackora/releases">
+        <img src="Resources/trackora_logo.png" width="27%" alt="Project 3 Preview" />
       </a>
-      <h3>Project Name 3</h3>
-      <p>Short one-line description of what it does.</p>
-      <p><b>Stack:</b> Java, Spring Boot, MySQL</p>
+      <h3>Trackora</h3>
+      <p>trackora is an elegant, privacy-first screen time and app usage tracker designed for fedora linux wayland. it runs in the background with the help of custom gnome-extension, logging application usage and window focus, and presents your data in a beautiful, analytical dashboard.</p>
+      <p><b>Stack:</b> python, pyside6, sqlite, shell, javascript</p>
       <p>
-        <a href="PROJECT_LINK_3">Live</a> |
-        <a href="GITHUB_LINK_3">Code</a>
+        <a href="https://github.com/SamXop123/Trackora/releases">Live</a> |
+        <a href="https://github.com/SamXop123/Trackora">Code</a>
       </p>
     </td>
     <td align="center" width="50%">
-      <a href="PROJECT_LINK_4">
-        <img src="PROJECT_IMAGE_URL_4" width="100%" alt="Project 4 Preview" />
+      <a href="https://rig-craft.vercel.app">
+        <img src="Resources/rigcraft.png" width="27%" alt="Project 4 Preview" />
       </a>
-      <h3>Project Name 4</h3>
-      <p>Short one-line description of what it does.</p>
-      <p><b>Stack:</b> Next.js, Firebase, Tailwind CSS</p>
+      <h3>RigCrafter</h3>
+      <p>rigcrafter is a modern, interactive web application that helps users build custom gaming pcs by selecting compatible components, checking compatibility issues, and optimizing their budget.</p>
+      <p><b>Stack:</b> next.js, firebase, typescript, tailwindcss</p>
       <p>
-        <a href="PROJECT_LINK_4">Live</a> |
-        <a href="GITHUB_LINK_4">Code</a>
+        <a href="https://rig-craft.vercel.app/">Live</a> |
+        <a href="https://github.com/SamXop123/RigCrafter">Code</a>
       </p>
     </td>
-  </tr> -->
+  </tr>
 </table>
 
 <br>
