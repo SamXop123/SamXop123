@@ -10,23 +10,22 @@
 
 </div>
 
-<hr>
 
 <!-- <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End"> -->
 
 
-<p align="left">
-  <img src="./Resources/pika-pika.gif" width="130px" align="right" alt="pika-pika">
-
+<p align="center">
+  <img src="./Resources/pika-pika.gif" width="130px" align="center" alt="pika-pika">
+<!--
   ### About Me ⚡
   <b>
   - 🌱 Currently Pursuing Computer Science Engineering. <br>
   - 💻 I've strong understanding of Python, Java, Flask, Reactjs, Expressjs, MongoDB, etc. <br>
   - ⚡ Hobbies: Piano, Photography, Football, gaming, etc <br>
   </b>
+  -->
 </p>
-<br>
-<br>
+
 <div align="center">
   
 ![MonkeyType](https://monkeytype-github-profile.deno.dev/profile/DotNot_Sam)
