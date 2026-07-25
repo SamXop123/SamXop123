@@ -12,7 +12,7 @@
 
 
 <!-- <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End"> -->
-
+<hr>
 
 <p align="center">
   <img src="./Resources/pika-pika.gif" width="130px" align="center" alt="pika-pika">
