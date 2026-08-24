@@ -52,7 +52,7 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://paraline.vercel.app">
-        <img src="Resources/appicon.png", width="25%", height="35%", alt="Paraline" />
+        <img src="Resources/paraline.png", width="25%", height="35%", alt="Paraline" />
       </a>
       <h3>Paraline</h3>
       <p>this one is for the people who want their desktop to feel alive. paraline is an aesthetic windows audio visualizer that sits right on your screen and turns whatever is playing into soft ambient waves, glowing borders, and reactive light. contains multiple themes!</p>
@@ -64,10 +64,10 @@
     </td>
     <td align="center" width="50%">
       <a href="https://samdev-pulse.vercel.app">
-        <img src="Resources/logo-samdev-pulse.png" width="30%" alt="samdev-pulse" />
+        <img src="Resources/logo-samdev-pulse.png" width="29%" alt="samdev-pulse" />
       </a>
       <h3>samdev-pulse</h3>
-      <p>this one you just saw above. yeah. the github profile stats generated as a single svg dashboard. this also contains multiple themes as well as optional leetcode support! and now if u are done reading, here is what 'pulse' stands for - Project Unified Live Stats Engine.</p>
+      <p>this one you just saw above. yeah. the github profile stats generated as a single svg dashboard. multiple themes present as well as optional leetcode support! and now if u are done reading, here is what 'pulse' stands for - Project Unified Live Stats Engine.</p>
       <p><b>Stack:</b> nodejs, expressjs, rest-api</p>
       <p>
         <a href="https://samdev-pulse.vercel.app">Live</a> |
@@ -89,15 +89,15 @@
       </p>
     </td>
     <td align="center" width="50%">
-      <a href="https://rig-craft.vercel.app">
-        <img src="Resources/rigcraft.png" width="27%" alt="Project 4 Preview" />
+      <a href="https://mlj.app">
+        <img src="Resources/mlj.png" width="27%" alt="Project 4 Preview" />
       </a>
-      <h3>RigCrafter</h3>
-      <p>rigcrafter is a modern, interactive web application that helps users build custom gaming pcs by selecting compatible components, checking compatibility issues, and optimizing their budget.</p>
-      <p><b>Stack:</b> next.js, firebase, typescript, tailwindcss</p>
+      <h3>MLJ</h3>
+      <p>MLJ stands for Minecraft Life Journal. specifically designed for minecrafters. this allows you to directly log your world memories from your game to the journal using a lightweight companion app. now you don't need to worry about losing any of your precious memories. created by me for the love of this game.</p>
+      <p><b>Stack:</b> next.js, tauri, typescript, rust</p>
       <p>
-        <a href="https://rig-craft.vercel.app/">Live</a> |
-        <a href="https://github.com/SamXop123/RigCrafter">Code</a>
+        <a href="https://mlj.app/">Live</a> |
+        <a href="https://github.com/SamXop123/Minecraft-Life-Journal">Code</a>
       </p>
     </td>
   </tr>
