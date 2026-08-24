@@ -188,7 +188,7 @@
 </div>
 <br>
 -->
-<br>
+
 
 # 🌐 Reach me out via:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/dot_notsam)
