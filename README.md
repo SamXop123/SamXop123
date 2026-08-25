@@ -81,7 +81,7 @@
         <img src="Resources/trackora_logo.png" width="27%" alt="Project 3 Preview" />
       </a>
       <h3>Trackora</h3>
-      <p>trackora is an elegant, privacy-first screen time and app usage tracker designed for fedora linux wayland. it runs in the background with the help of custom gnome-extension, logging application usage and window focus, and presents your data in a beautiful, analytical dashboard.</p>
+      <p>trackora is an elegant, privacy-first screen time and app usage tracker designed for fedora linux wayland (now also available on windows 10/11). it runs in the background with the help of custom gnome-extension, logging application usage and window focus, and presents your data in a beautiful, analytical dashboard.</p>
       <p><b>Stack:</b> python, pyside6, sqlite, shell, javascript</p>
       <p>
         <a href="https://github.com/SamXop123/Trackora/releases">Live</a> |
