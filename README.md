@@ -4,11 +4,11 @@
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 <img src = "./Resources/banner-modified.png" width="1100px">
 -->
-<div align="center">
+<!-- <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&weight=900&size=40&duration=2000&color=B5C8F7&center=true&vCenter=true&width=600&height=100&lines=Hi%F0%9F%91%8B%F0%9F%8F%BB;I'm+Sam.;A+Passionate+Coder+from+India.)](https://git.io/typing-svg)
 
-</div>
+</div> -->
 
 
 <!-- <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End"> -->
