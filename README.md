@@ -30,7 +30,7 @@
 -->
 <div align="center">
 
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=SamXop123&theme=webdev&leetcode=Dot_NotSam&align=center)
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=SamXop123&theme=webdev&leetcode=Dot_NotSam&align=center&activity=all)
 
 <!--
 <img src="https://github-trophies.vercel.app/?username=SamXop123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4"><br>
