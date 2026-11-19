@@ -198,7 +198,7 @@
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Dot_NotSam)
 [![Linktree](https://custom-icon-badges.demolab.com/badge/Linktree-darkgreen?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/DotNotSam)
 
-![MonkeyType](https://monkeytype-github-profile.deno.dev/profile/DotNot_Sam)
+<!-- ![MonkeyType](https://monkeytype-github-profile.deno.dev/profile/DotNot_Sam) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SamXop123&label=Profile%20Views&color=red&style=for-the-badge)
 <img src="https://img.icons8.com/color/30/000000/visible--v1.png" width="30" alt="Eye Icon" />
